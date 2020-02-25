@@ -21,15 +21,15 @@ ScrollViewWithCompletionHandler(header: {
 }
 ```
 
->- Parameters:
-    - header: A View that will be on top of ScrollView and will animate when you scroll.
-    - scrollDownCompletion: A completion handler that will be executed when the user swipe down the scroll view and release it.
-    - content: Content Views of ScrollView.
+Parameter name | Details
+---------------|---------
+header: | A View that will be on top of ScrollView and will animate when you scroll.
+scrollDownCompletion: | A completion handler that will be executed when the user swipe down the scroll view and release it.
+content: | Content Views of ScrollView.
     
 
 **ToDo:**
 - [ ] Give the option to the developer to remove scroll indicators.
-
 
 
 
