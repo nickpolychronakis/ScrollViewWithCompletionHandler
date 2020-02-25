@@ -15,7 +15,7 @@ To download the Swift Package, on Xcode go to File -> Swift Packages -> Add Pack
 
 **Example:**
 
-```
+```swift
 ScrollViewWithCompletionHandler(header: {
     Text("Header View")
 }, scrollDownCompletion: {
