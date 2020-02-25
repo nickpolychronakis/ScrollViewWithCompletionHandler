@@ -4,6 +4,9 @@ A ScrollView with a header View, which executes a completion handler when the us
 
 ![Example gif](Example.gif)
 
+
+To download the Swift Package, on Xcode go to File -> Swift Packages -> Add Package Dependency and write "https://github.com/nickpolychronakis/ScrollViewWithCompletionHandler"
+
 **Example:**
 
 ```
