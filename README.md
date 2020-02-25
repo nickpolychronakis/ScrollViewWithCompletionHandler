@@ -1,5 +1,6 @@
-If you like it, consider to buy me a coffee!
 <a href="https://www.buymeacoffee.com/NickPolychronakis" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
+
+If you like it, consider to buy me a coffee!
 
 # ScrollViewWithCompletionHandler
 
