@@ -31,5 +31,7 @@ content: | Content Views of ScrollView.
 **ToDo:**
 - [ ] Give the option to the developer to remove scroll indicators.
 
+
 <a href="https://www.buymeacoffee.com/NickPolychronakis" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
+
 If you like it, consider to buy me a coffee! Because if I continue this way, I will pay more for coffees than for food!
