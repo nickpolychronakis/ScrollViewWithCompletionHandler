@@ -30,7 +30,3 @@ content: | Content Views of ScrollView.
 
 **ToDo:**
 - [ ] Give the option to the developer to remove scroll indicators.
-
-
-
-***Photos by Charles Deluvio on Unsplash***
