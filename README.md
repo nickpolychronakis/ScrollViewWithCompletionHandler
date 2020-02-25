@@ -1,7 +1,6 @@
 # ScrollViewWithCompletionHandler
 
 A ScrollView with a header View, which executes a completion handler when the user swipes down and release.
-You can add a View for Header on top of the Scroll View
 
 ![Example gif](Example.gif)
 
